@@ -6,6 +6,8 @@ Installation notes included in each BSP archive's README file.
 
 | Carrier Board | JetPack | ZED SDK | ZED X Driver | BSP Package |
 | ------------- | ------- | ------- | ------------ | ----------- |
+| MILBOARD-THR     | 7.0   | [v5.2.0](ZED_SDK_Tegra_L4T38.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedlink-duo_1.4.0-LI-MAX96712-L4T38.2.1_arm64.deb) | [BSP](jp70-milboard-thr-thor-zed-v140.zip) |
+| DSBOARD-THRMAX   | 7.0   | [v5.2.0](ZED_SDK_Tegra_L4T38.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedlink-duo_1.4.0-LI-MAX96712-L4T38.2.1_arm64.deb) | [BSP](jp70-dsboard-thrmax-thor-zed-v140.zip) |
 | DSBOARD-AGXMAX   | 6.2   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-dsboard-agxmax-orin-zed-v140.zip) |
 | DSBOARD-AGX      | 6.2   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-dsboard-agx-orin-zed-v140.zip) |
 | RAIBOARD-ORNX    | 6.2   | [v4.2.3](ZED_SDK_Tegra_L4T36.4_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-raiboard-ornx-orin-zed-v122.zip) |
