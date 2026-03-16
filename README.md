@@ -12,6 +12,7 @@ Installation notes included in each BSP archive's README file.
 | MILBOARD-AGX     | 6.2   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-milboard-agx-orin-zed-v140.zip) |
 | DSBOARD-AGXMAX   | 6.2   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-dsboard-agxmax-orin-zed-v140.zip) |
 | DSBOARD-AGX      | 6.2   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-dsboard-agx-orin-zed-v140.zip) |
+| MILBOARD-ORNX    | 6.2   | [v4.2.3](ZED_SDK_Tegra_L4T36.4_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-milboard-ornx-orin-zed-v122.zip) |
 | RAIBOARD-ORNX    | 6.2   | [v4.2.3](ZED_SDK_Tegra_L4T36.4_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-raiboard-ornx-orin-zed-v122.zip) |
 | DSBOARD-ORNX     | 6.2   | [v4.2.3](ZED_SDK_Tegra_L4T36.4_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-dsboard-ornx_ornx-lan-orin-zed-v122.zip) |
 | DSBOARD-ORNX-LAN | 6.2   | [v4.2.3](ZED_SDK_Tegra_L4T36.4_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-dsboard-ornx_ornx-lan-orin-zed-v122.zip) |
@@ -20,6 +21,7 @@ Installation notes included in each BSP archive's README file.
 | MILBOARD-AGX     | 6.1   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp61-milboard-agx-orin-zed-v140.zip) |
 | DSBOARD-AGXMAX   | 6.1   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp61-dsboard-agxmax-orin-zed-v140.zip) |
 | DSBOARD-AGX      | 6.1   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp61-dsboard-agx-orin-zed-v140.zip) |
+| MILBOARD-ORNX    | 6.1   | [v4.2.3](ZED_SDK_Tegra_L4T36.4_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp61-milboard-ornx-orin-zed-v122.zip) |
 | RAIBOARD-ORNX    | 6.1   | [v4.2.3](ZED_SDK_Tegra_L4T36.4_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp61-raiboard-ornx-orin-zed-v122.zip) |
 | DSBOARD-ORNX     | 6.1   | [v4.2.3](ZED_SDK_Tegra_L4T36.4_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp61-dsboard-ornx_ornx-lan-orin-zed-v122.zip) |
 | DSBOARD-ORNX-LAN | 6.1   | [v4.2.3](ZED_SDK_Tegra_L4T36.4_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp61-dsboard-ornx_ornx-lan-orin-zed-v122.zip) |
@@ -28,6 +30,7 @@ Installation notes included in each BSP archive's README file.
 | MILBOARD-AGX     | 6.0   | [v5.2.0](ZED_SDK_Tegra_L4T36.3_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.3.0_arm64.deb) | [BSP](jp60-milboard-agx-orin-zed-v140.zip) |
 | DSBOARD-AGXMAX   | 6.0   | [v5.2.0](ZED_SDK_Tegra_L4T36.3_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.3.0_arm64.deb) | [BSP](jp60-dsboard-agxmax-orin-zed-v140.zip) |
 | DSBOARD-AGX      | 6.0   | [v5.2.0](ZED_SDK_Tegra_L4T36.3_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.3.0_arm64.deb) | [BSP](jp60-dsboard-agx-orin-zed-v140.zip) |
+| MILBOARD-ORNX    | 6.0   | [v4.2.3](ZED_SDK_Tegra_L4T36.3_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.3.0_arm64.deb) | [BSP](jp60-milboard-ornx-orin-zed-v122.zip) |
 | RAIBOARD-ORNX    | 6.0   | [v4.2.3](ZED_SDK_Tegra_L4T36.3_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.3.0_arm64.deb) | [BSP](jp60-raiboard-ornx-orin-zed-v122.zip) |
 | DSBOARD-ORNX     | 6.0   | [v4.2.3](ZED_SDK_Tegra_L4T36.3_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.3.0_arm64.deb) | [BSP](jp60-dsboard-ornx_ornx-lan-orin-zed-v122.zip) |
 | DSBOARD-ORNX-LAN | 6.0   | [v4.2.3](ZED_SDK_Tegra_L4T36.3_v4.2.3.zstd.run) | [v1.2.2](stereolabs-zedbox-onx16_1.2.2-LI-MAX96712-all-ZEDBOX-L4T36.3.0_arm64.deb) | [BSP](jp60-dsboard-ornx_ornx-lan-orin-zed-v122.zip) |
