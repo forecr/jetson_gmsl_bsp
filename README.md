@@ -8,7 +8,7 @@ Installation notes included in each BSP archive's README file.
 | ------------- | ------- | ------- | ------------ | ----------- |
 | DSBOARD-THRMAX   | 7.1   | [v5.3.0](ZED_SDK_Tegra_L4T38.4_v5.3.0.zstd.run) | [v1.4.2](stereolabs-zedlink-duo_1.4.2-LI-MAX96712-L4T38.4.1_arm64.deb) | [BSP](jp71-dsboard-thrmax-thor-zed-v142.zip) |
 | MILBOARD-THR     | 7.0   | [v5.2.0](ZED_SDK_Tegra_L4T38.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedlink-duo_1.4.0-LI-MAX96712-L4T38.2.1_arm64.deb) | [BSP](jp70-milboard-thr-thor-zed-v140.zip) |
-| DSBOARD-THRMAX   | 7.0   | [v5.2.0](ZED_SDK_Tegra_L4T38.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedlink-duo_1.4.0-LI-MAX96712-L4T38.2.1_arm64.deb) | [BSP](jp70-dsboard-thrmax-thor-zed-v140.zip) |
+| DSBOARD-THRMAX   | 7.0   | [v5.3.0](ZED_SDK_Tegra_L4T38.2_v5.3.0.zstd.run) | [v1.4.2](stereolabs-zedlink-duo_1.4.2-LI-MAX96712-L4T38.2.1_arm64.deb) | [BSP](jp70-dsboard-thrmax-thor-zed-v142.zip) |
 | MILBOARD-AGXMAX  | 6.2   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-milboard-agxmax-orin-zed-v140.zip) |
 | MILBOARD-AGX     | 6.2   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-milboard-agx-orin-zed-v140.zip) |
 | RAIBOARD-AGX     | 6.2   | [v5.2.0](ZED_SDK_Tegra_L4T36.4_v5.2.0.zstd.run) | [v1.4.0](stereolabs-zedbox-duo_1.4.0-LI-MAX96712-ZEDBOX-L4T36.4.0_arm64.deb) | [BSP](jp62-raiboard-agx-orin-zed-v140.zip) |
