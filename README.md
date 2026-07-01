@@ -1,6 +1,13 @@
 # jetson_gmsl_bsp
 
-BSP packages for 4-channel GMSL board based forecr products
+BSP packages for 4 and 8 channel GMSL board based forecr products
+
+Compatible Boards
+| Boards               | Module        |
+|----------------------|---------------|
+| DSADDON-GMSL-NX      | Orin NX/Nano  |
+| DSADDON-GMSL-AGX-4CH | AGX Orin/Thor |
+| DSADDON-GMSL-AGX-8CH | AGX Orin/Thor |
 
 Installation notes included in each BSP archive's README file.
 
