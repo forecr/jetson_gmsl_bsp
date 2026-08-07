@@ -39,11 +39,23 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T39.2.1_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T39.2.1_arm64.deb">⬇ Download</a></td>
     </tr>
+        <tr>
+      <td align="center"><b>7.2 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T39.2.1_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T39.2.1_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T39.2.1_arm64.deb">⬇ Download</a></td>
+    </tr>
     <tr>
       <td align="center"><b>7.1</b></td>
       <td align="center">—</td>
       <td align="center">—</td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T38.4.1_arm64.deb">⬇ Download</a></td>
+    </tr>
+        <tr>
+      <td align="center"><b>7.1 RT</b></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+      <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T38.4.1_arm64.deb">⬇ Download</a></td>
     </tr>
     <tr>
       <td align="center"><b>7.0</b></td>
@@ -51,10 +63,22 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
       <td align="center">—</td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T38.2.1_arm64.deb">⬇ Download</a></td>
     </tr>
+        <tr>
+      <td align="center"><b>7.0 RT</b></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+      <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T38.2.1_arm64.deb">⬇ Download</a></td>
+    </tr>
     <tr>
       <td align="center"><b>6.2.2</b></td>
       <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-L4T36.5.0_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.5.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
+        <tr>
+      <td align="center"><b>6.2.2 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.5.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.5.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
@@ -63,10 +87,22 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
+        <tr>
+      <td align="center"><b>6.2.1 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
     <tr>
       <td align="center"><b>6.2</b></td>
       <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
+        <tr>
+      <td align="center"><b>6.2 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
@@ -75,10 +111,22 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
+        <tr>
+      <td align="center"><b>6.1 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
     <tr>
       <td align="center"><b>6.0</b></td>
       <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-L4T36.3.0_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.3.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
+        <tr>
+      <td align="center"><b>6.0 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.3.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.3.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
   </tbody>
@@ -104,11 +152,23 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T39.2.1_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T39.2.1_arm64.deb">⬇ Download</a></td>
     </tr>
+        <tr>
+      <td align="center"><b>7.2 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T39.2.1_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T39.2.1_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T39.2.1_arm64.deb">⬇ Download</a></td>
+    </tr>
     <tr>
       <td align="center"><b>7.1</b></td>
       <td align="center">—</td>
       <td align="center">—</td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T38.4.1_arm64.deb">⬇ Download</a></td>
+    </tr>
+        <tr>
+      <td align="center"><b>7.1 RT</b></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+      <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T38.4.1_arm64.deb">⬇ Download</a></td>
     </tr>
     <tr>
       <td align="center"><b>7.0</b></td>
@@ -116,10 +176,22 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
       <td align="center">—</td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T38.2.1_arm64.deb">⬇ Download</a></td>
     </tr>
+        <tr>
+      <td align="center"><b>7.0 RT</b></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+      <td align="center"><a href="releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T38.2.1_arm64.deb">⬇ Download</a></td>
+    </tr>
     <tr>
       <td align="center"><b>6.2.2</b></td>
       <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-L4T36.5.0_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.5.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
+        <tr>
+      <td align="center"><b>6.2.2 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.5.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.5.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
@@ -128,10 +200,22 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
+        <tr>
+      <td align="center"><b>6.2.1 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
     <tr>
       <td align="center"><b>6.2</b></td>
       <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
+        <tr>
+      <td align="center"><b>6.2 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
@@ -140,10 +224,22 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
+        <tr>
+      <td align="center"><b>6.1 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
     <tr>
       <td align="center"><b>6.0</b></td>
       <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-L4T36.3.0_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.3.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+    </tr>
+        <tr>
+      <td align="center"><b>6.0 RT</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.3-rt-L4T36.3.0_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-rt-L4T36.3.0_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
   </tbody>
@@ -197,5 +293,6 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
 
 | Date | Note |
 |---|---|
+| 07-08-2026 | Added 1.4.3 RT drivers |
 | 06-08-2026 | Tested deb files |
 | 01-08-2026 | Added 1.4.3 |
