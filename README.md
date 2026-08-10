@@ -18,10 +18,25 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
    ```bash
    v4l2-ctl --list-devices
    ```
+## Install Argus
+1.  Install related packages
+  ```bash
+  sudo apt install nvidia-l4t-jetson-multimedia-api cmake build-essential pkg-config libx11-dev libgtk-3-dev libexpat1-dev libjpeg-dev libgstreamer1.0-dev
+  ```
+2. Go to argus directory
+  ```bash
+  cd /usr/src/jetson_multimedia_api/argus/
+  ```
+3. Build and Install argus_camera
+  ```bash
+  mkdir build && cd build
+  sudo cmake .. && sudo make -j $(nproc)
+  sudo make install
+  ```
 
 ## DSADDON-GMSL-AGX-8CH
 
-![alt](images/FORECR_DSADDON_GMSL_AGX_8CH_REV20.png){: width="515px" }
+![alt](images/FORECR_DSADDON_GMSL_AGX_8CH_REV20.png)
 
 <table>
   <thead>
@@ -288,6 +303,9 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
     </tr>
   </tbody>
 </table>
+
+
+
 
 ## 📌 Release Notes
 
