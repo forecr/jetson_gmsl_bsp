@@ -18,6 +18,13 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
    ```bash
    v4l2-ctl --list-devices
    ```
+## ⚙️ Uninstallation
+
+1. Perform the installation then reboot:
+   ```bash
+   sudo dpkg -r stereolabs-forecr-*
+   sudo reboot
+   ```
 ## Install Argus
 1.  Install related packages
   ```bash
@@ -34,7 +41,7 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
   sudo make install
   ```
 
-## DSADDON-GMSL-AGX-8CH
+## DSADDON-GMSL-AGX-8CH (experimental)
 
 ![alt](images/FORECR_DSADDON_GMSL_AGX_8CH_REV20.png)
 
@@ -147,9 +154,9 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
   </tbody>
 </table>
 
-## DSADDON-GMSL-THRMAX-8CH
+## DSADDON-GMSL-THRMAX-8CH (experimental)
 
-![alt](images/FORECR_DSADDON_GMSL_THRMAX_8CH_REV11.png){: width="515px" }
+![alt](images/FORECR_DSADDON_GMSL_THRMAX_8CH_REV11.png)
 
 <table>
   <thead>
@@ -260,6 +267,73 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
   </tbody>
 </table>
 
+## DSADDON-GMSL-AGX-4CH (experimental)
+
+![alt](images/FORECR_DSADDON_GMSL_AGX_4CH_REV12.png)
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">JetPack Version</th>
+      <th align="center">AGX Orin</th>
+      <th align="center">Orin NX/Nano</th>
+      <th align="center">Thor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>7.2</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-4ch-gmsl-for-agx_1.4.3-L4T39.2.1_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+    </tr>
+    <tr>
+      <td align="center"><b>7.1</b></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+    </tr>
+    <tr>
+      <td align="center"><b>7.0</b></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2.2</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-4ch-gmsl-for-agx_1.4.3-L4T36.5.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2.1</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-4ch-gmsl-for-agx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-4ch-gmsl-for-agx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.1</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-4ch-gmsl-for-agx_1.4.3-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.0</b></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-4ch-gmsl-for-agx_1.4.3-L4T36.3.0_arm64.deb">⬇ Download</a></td>
+      <td align="center">—</td>
+      <td align="center">—</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## ZED SDK
 <table>
   <thead>
@@ -309,8 +383,8 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
 
 ## 📌 Release Notes
 
-| Date | Note |
-|---|---|
+| Date       | Note                   |
+|------------|------------------------|
 | 07-08-2026 | Added 1.4.3 RT drivers |
-| 06-08-2026 | Tested deb files |
-| 01-08-2026 | Added 1.4.3 |
+| 06-08-2026 | Tested deb files       |
+| 01-08-2026 | Added 1.4.3            |
