@@ -456,31 +456,31 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
   <tbody>
     <tr>
       <td align="center"><b>7.2</b></td>
-      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T39.2_v5.5.0.zstd.run">⬇ Zed SDK 5.4.1</a></td>
+      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T39.2_v5.5.0.zstd.run">⬇ Zed SDK 5.5.0</a></td>
     </tr>
     <tr>
       <td align="center"><b>7.1</b></td>
-      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T38.4_v5.5.0.zstd.run">⬇ Zed SDK 5.4.1</a></td>
+      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T38.4_v5.5.0.zstd.run">⬇ Zed SDK 5.5.0</a></td>
     </tr>
     <tr>
       <td align="center"><b>7.0</b></td>
-      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T38.2_v5.5.0.zstd.run">⬇ Zed SDK 5.4.1</a></td>
+      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T38.2_v5.5.0.zstd.run">⬇ Zed SDK 5.5.0</a></td>
     </tr>
     <tr>
       <td align="center"><b>6.2.2</b></td>
-      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T36.5_v5.5.0.zstd.run">⬇ Zed SDK 5.4.1</a></td>
+      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T36.5_v5.5.0.zstd.run">⬇ Zed SDK 5.5.0</a></td>
     </tr>
     <tr>
       <td align="center"><b>6.2.1</b></td>
-      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T36.4_v5.5.0.zstd.run">⬇ Zed SDK 5.4.1</a></td>
+      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T36.4_v5.5.0.zstd.run">⬇ Zed SDK 5.5.0</a></td>
     </tr>
     <tr>
       <td align="center"><b>6.2</b></td>
-      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T36.4_v5.5.0.zstd.run">⬇ Zed SDK 5.4.1</a></td>
+      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T36.4_v5.5.0.zstd.run">⬇ Zed SDK 5.5.0</a></td>
     </tr>
     <tr>
       <td align="center"><b>6.1</b></td>
-      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T36.4_v5.4.1.zstd.run">⬇ Zed SDK 5.4.1</a></td>
+      <td align="center"><a href="releases/zed-sdk/ZED_SDK_Tegra_L4T36.4_v5.5.0.zstd.run">⬇ Zed SDK 5.5.0</a></td>
     </tr>
     <tr>
       <td align="center"><b>6.0</b></td>
