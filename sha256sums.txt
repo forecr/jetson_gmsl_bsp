@@ -16,11 +16,11 @@ b5d89fbb54264e0a1749d46f1bdcb62b31eb25251bc441571aea8fa7cd5957f0  ./releases/agx
 ece03bc22bacea424f5ba2d38cbc235dc1b108e88e060e1df1032f56291f89bd  ./releases/agx/stereolabs-forecr-agx-4ch-gmsl-for-agx_1.4.3-L4T36.4.0_arm64.deb
 60ccce470943ab87432b9b9b96563f578f457e13babfd6396e3a6a1e0b9a1ec7  ./releases/thor/stereolabs-forecr-agx-4ch-gmsl-for-thor_1.4.3-L4T38.4.1_arm64.deb
 213b8261c46706943f608c2a652a86aa43cacdd43100f03bb8ff022ad8d967f5  ./releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T38.2.1_arm64.deb
-d3a7987d1c9185cf1edb33beee33168ae9086f195a115bd28b9fd06800624b7f  ./releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T39.2.1_arm64.deb
+c28af0cc71a301446c712d104667f0ce5261b0c2b2e0e0e18864c4a6209d92e8  ./releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T39.2.1_arm64.deb
 e71ce5bcf465901cd5bf2e952d5e42b8214218fe2fd437367906a0d9a172b9bd  ./releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T38.4.1_arm64.deb
-847955eca92f008faefa47bbf6187acdc4ec039a5d2a80da3f3c01a3c09013c5  ./releases/thor/stereolabs-forecr-agx-4ch-gmsl-for-thor_1.4.3-L4T39.2.1_arm64.deb
+17665868b93175fdd5470e839f027fdfaef6017161410adfb69552082e549798  ./releases/thor/stereolabs-forecr-agx-4ch-gmsl-for-thor_1.4.3-L4T39.2.1_arm64.deb
 f7247e468fcf394b5a3c5ba2dfc1f93f623d7ebffa80b95c5b813d994984afa6  ./releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T38.4.1_arm64.deb
-b81be21caf53e79ee9b374ffbe2428e43b2c0952c77e1a307734976d8246f8ed  ./releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T39.2.1_arm64.deb
+5c7ec757412132be64deff00f64c683df1329df9d488e5180e72326e47c48827  ./releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-L4T39.2.1_arm64.deb
 c9726288b68d6d289612aab3c29ad67d81c4114272d71575f9745282a3fed6aa  ./releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.3-rt-L4T38.2.1_arm64.deb
 f61defbcf4967f767fab2764586c1d55abff55daff967ed6e0f94e8e6205f32c  ./releases/ornx/stereolabs-forecr-agx-8ch-gmsl-for-ornx_1.4.3-L4T36.4.0_arm64.deb
 3a9a3e33be63cd3d6b7227ee6f2f96d5f82c7662c8fd27e97a5a2d8e2dab4963  ./releases/ornx/stereolabs-forecr-agx-4ch-gmsl-for-ornx_1.4.3-L4T39.2.1_arm64.deb
@@ -45,4 +45,4 @@ ab88f8d835014c143252bab483e368be706b27a7bf0c983b29f05176b2a18104  ./releases/orn
 d03099dcbf8ec882802126f786cf43e6503739f89c6f045a5b9fc2759a00a28f  ./releases/thor/stereolabs-forecr-agx-4ch-gmsl-for-thor_1.4.3-L4T38.2.1_arm64.deb
 274c1ddba3b0627328f6a86b5cb36099409f958143edfa2657fb597b00545dc8  ./releases/thor/stereolabs-forecr-agx-4ch-gmsl-for-thor_1.4.3-rt-L4T38.2.1_arm64.deb
 5fdf726c3c6e2ded24a749475c93e94adbd7c7e9cc33fa8722c130993cb9a898  ./releases/thor/stereolabs-forecr-agx-4ch-gmsl-for-thor_1.4.3-rt-L4T38.4.1_arm64.deb
-d8f37d1910cdb70afa3316ae16ea9bec1bd34a4f3f74e21e0f39ece2186d8c70  ./releases/thor/stereolabs-forecr-agx-4ch-gmsl-for-thor_1.4.3-rt-L4T39.2.1_arm64.deb
+333b55bd646c274286cf1fc8c6a3b8eacf45a896a40a3964d11137ad6e714afe  ./releases/thor/stereolabs-forecr-agx-4ch-gmsl-for-thor_1.4.3-rt-L4T39.2.1_arm64.deb
