@@ -502,7 +502,9 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
 </table>
 
 
-## ZED Link Mono on DSBOARD-ORNX / DSBOARD-ORNXS 
+## ZED Link Mono on DSBOARD-ORNX / DSBOARD-ORNXS
+
+![alt](images/ZED_Link_Capture_Card_Mono.png)
 
 > Driver version 1.4.4 for a ZED Link Mono capture card connected to the CSI connector of the carrier board. On DSBOARD-ORNXS the matching overlay is selected automatically during installation.
 
