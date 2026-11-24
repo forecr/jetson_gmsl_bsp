@@ -108,3 +108,13 @@ a63e27760ef9148ebcf05d42cb5fa090306c2d05cfe8b10d344bf92c10c31c8e  ./releases/tho
 d6094539db800f51539f628e5c29803e785541a9ce875ab1eca88521eb10c3e2  ./releases/thor/stereolabs-forecr-agx-8ch-gmsl-for-thor_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb
 113510774c7b15f90bd4a44c7cb317d34ec82bd44b829352e3df6d8e0f4cff32  ./releases/ornx/stereolabs-forecr-agx-4ch-gmsl-for-ornx_1.4.4-L4T36.5.2_arm64.deb
 3833d24c29e73c75acdb26ad48f0a3e2d4b0d9eee768e30b87d8eb0de2481512  ./releases/ornx/stereolabs-forecr-agx-4ch-gmsl-for-ornx_1.4.4-rt-L4T36.5.2_arm64.deb
+1f8f388e2ee0af985c083c40f6511c137db272c8c8a50e2c0d57bb2209ec7e0d  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.3.0_arm64.deb
+79cd72f793ad2acaf12ac9f74e2ad020bf3386889b85d69f37eec5f6a27d3eb3  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.4.0_arm64.deb
+def6282aee9fad6580400c05d6c87c74d2263bfd2d2894cbe43bb6d6d1f9c1c9  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.5.0_arm64.deb
+7d375cc88a071ad3ba6df9c8c9cc79d138c137056189fa90ec43e05ee7dd0308  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.5.2_arm64.deb
+9a8ab37cc13d22af04d19e3bfd9b6b1935b4ec7d0e78da9e433640c4756917e5  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T39.2.0_arm64.deb
+d454eec011afd3a8348c685c3d5577869b1c637b7c792445744e29e6b978fc15  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.3.0_arm64.deb
+26da603ee57496f0f5ab54388925cffde4af986a97a011d36c21d2bdae77fe1d  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.4.0_arm64.deb
+c498360cf5fa4593fd70bd86fcda6a0ba0bf20f94f1ab2e1b9ec27f7a084735f  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.5.0_arm64.deb
+0060b72796df67f2bf396a0f07ef82ed4a90fcd4a30caabb4302cd0b1222a276  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.5.2_arm64.deb
+10a5c9eca433e57ba075dd10d1e7d2711b619a452d83b261ef3bf80cd7d12ec8  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T39.2.0_arm64.deb
