@@ -124,3 +124,13 @@ b51b9f16f010355f109a4e557659d8d868a22c02e0865c25fd3acc1c0094baee  ./releases/tho
 82d5456af3e304e24d5cf5fb6cfca0315de1ebc5bcc20b9a230a944840c35025  ./releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-rt-L4T38.2.1+hdrfix_arm64.deb
 3f6d958c51574a6d4ac730b92ff81238a1d6d943cc1e4ed0ab0e81a9c4ac1893  ./releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-rt-L4T38.4.1+hdrfix_arm64.deb
 29c71fe603d5e57a39fcd3b95761cc7940cbed051cb1a1fecb358c267fbb0a73  ./releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb
+ce6bef7e97db075db7f828066f4a489c711340ea14994867df64059bd65c7801  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.3.0+hdrfix_arm64.deb
+a6e59047601a4cfb3520384268c5f16a9c878e89c10cb1da6c224088a4ca5250  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.4.0+hdrfix_arm64.deb
+9c4f20b2975b6f99e91071089e84d2f92b668b3730bdaefbf27a93ca7dfd0348  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.5.0+hdrfix_arm64.deb
+db5bec06cae8e66e06a608057872a8527c202cab56c2b4222c8c54d915767503  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.5.2+hdrfix_arm64.deb
+43bda58ae34ec826d62ba3d8b217903015babceb9a072e24ad53c3aa14680cf6  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T39.2.0+hdrfix_arm64.deb
+f40231c13e16e369ae4202f0e992528fb562649667c69f0147eaa1ff4aa2b8bd  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.3.0+hdrfix_arm64.deb
+668df74ac225beb5cdfc94b98567b63215efda6749270cb719c1739af18b21c3  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.4.0+hdrfix_arm64.deb
+47288fa904ac2dd3e5753f5eca775d0c9a002d78a8c1a66dbe02cf0cb45323e5  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.5.0+hdrfix_arm64.deb
+e523d67b60c05f94516a72da8d195b36b023b837ce59e196fbe1dc800cbef7d0  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.5.2+hdrfix_arm64.deb
+4290cc2a684593dc763682d452731f09d8008975b4fa871b1056c42d437760c8  ./releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb
