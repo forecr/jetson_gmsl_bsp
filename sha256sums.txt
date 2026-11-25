@@ -118,3 +118,9 @@ d454eec011afd3a8348c685c3d5577869b1c637b7c792445744e29e6b978fc15  ./releases/orn
 c498360cf5fa4593fd70bd86fcda6a0ba0bf20f94f1ab2e1b9ec27f7a084735f  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.5.0_arm64.deb
 0060b72796df67f2bf396a0f07ef82ed4a90fcd4a30caabb4302cd0b1222a276  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.5.2_arm64.deb
 10a5c9eca433e57ba075dd10d1e7d2711b619a452d83b261ef3bf80cd7d12ec8  ./releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T39.2.0_arm64.deb
+09194fe0187cc6d73afcaf398346f1f06f597a9bc79214407f8fd0a1abea4209  ./releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-L4T38.2.1+hdrfix_arm64.deb
+b51b9f16f010355f109a4e557659d8d868a22c02e0865c25fd3acc1c0094baee  ./releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-L4T38.4.1+hdrfix_arm64.deb
+33555018f110f752a62d818f5e540b691e7baad6437b28f271de2b714ff0761f  ./releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-L4T39.2.0+hdrfix_arm64.deb
+82d5456af3e304e24d5cf5fb6cfca0315de1ebc5bcc20b9a230a944840c35025  ./releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-rt-L4T38.2.1+hdrfix_arm64.deb
+3f6d958c51574a6d4ac730b92ff81238a1d6d943cc1e4ed0ab0e81a9c4ac1893  ./releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-rt-L4T38.4.1+hdrfix_arm64.deb
+29c71fe603d5e57a39fcd3b95761cc7940cbed051cb1a1fecb358c267fbb0a73  ./releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb
