@@ -176,22 +176,22 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
   <tbody>
     <tr>
       <td align="center"><b>7.2.1</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
     </tr>
     <tr>
       <td align="center"><b>7.2.1 RT</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
     </tr>
     <tr>
       <td align="center"><b>7.2</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
     </tr>
     <tr>
       <td align="center"><b>7.2 RT</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center"><a href="releases/thor/stereolabs-forecr-thrmax-8ch-gmsl-for-thor_1.4.4-rt-L4T39.2.0+hdrfix_arm64.deb">⬇ Download</a></td>
     </tr>
     <tr>
@@ -216,62 +216,62 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
     </tr>
     <tr>
       <td align="center"><b>6.2.3</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-L4T36.5.2+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.5.2+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.2.3 RT</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-rt-L4T36.5.2+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.5.2+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.2.2</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-L4T36.5.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.5.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.2.2 RT</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-rt-L4T36.5.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.5.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.2.1</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.2.1 RT</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-rt-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.2</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.2 RT</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-rt-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.1</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.1 RT</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-rt-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.4.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.0</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-L4T36.3.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-L4T36.3.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
     <tr>
       <td align="center"><b>6.0 RT</b></td>
-      <td align="center"><a href="releases/agx/stereolabs-forecr-agx-8ch-gmsl-for-agx_1.4.4-rt-L4T36.3.0+hdrfix_arm64.deb">⬇ Download</a></td>
+      <td align="center"><a href="releases/agx/stereolabs-forecr-thrmax-8ch-gmsl-for-agx_1.4.4-rt-L4T36.3.0+hdrfix_arm64.deb">⬇ Download</a></td>
       <td align="center">—</td>
     </tr>
   </tbody>
