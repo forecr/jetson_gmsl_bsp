@@ -417,7 +417,7 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
 </table>
 
 
-## DSADDON-GMSL-NX
+## DSADDON-GMSL-NX Rev1.0
 
 ![alt](images/FORECR_DSADDON_GMSL_NX_REV10.png)
 
@@ -497,6 +497,91 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
     <tr>
       <td align="center"><b>6.0 RT</b></td>
       <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-for-ornx_1.4.4-rt-L4T36.3.0+rev10.ornxs_arm64.deb">⬇ Download</a></td>
+    </tr>
+  </tbody>
+</table>
+
+
+## DSADDON-GMSL-NX Rev2.0
+
+![alt](images/FORECR_DSADDON_GMSL_NX_REV20.png)
+
+> Driver version 1.4.4 for DSADDON-GMSL-NX Rev2.0 (8 channels, two MAX96712).
+>
+> - The default overlay `tegra234-p3768-camera-forecr-gmsl-nx-8ch-sl-for-ornx-overlay.dtbo` is for DSBOARD-ORNXS.
+> - On DSBOARD-ORNX and DSBOARD-ORNX-LAN the overlay `tegra234-p3768-camera-forecr-gmsl-nx-8ch-sl-for-dsboard-ornx-overlay.dtbo` is selected automatically during installation.
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">JetPack Version</th>
+      <th align="center">Orin NX/Nano</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><b>7.2.1</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T39.2.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>7.2.1 RT</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T39.2.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>7.2</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T39.2.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>7.2 RT</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T39.2.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2.3</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.5.2_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2.3 RT</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.5.2_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2.2</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.5.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2.2 RT</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.5.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2.1</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2.1 RT</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.2 RT</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.1</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.1 RT</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.4.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.0</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-L4T36.3.0_arm64.deb">⬇ Download</a></td>
+    </tr>
+    <tr>
+      <td align="center"><b>6.0 RT</b></td>
+      <td align="center"><a href="releases/ornx/stereolabs-forecr-gmsl-nx-8ch-for-ornx_1.4.4-rt-L4T36.3.0_arm64.deb">⬇ Download</a></td>
     </tr>
   </tbody>
 </table>
@@ -635,6 +720,7 @@ BSP packages for 4 and 8 channel GMSL board based forecr products
 
 | Date       | Note                   |
 |------------|------------------------|
+| 24-11-2026 | Added DSADDON-GMSL-NX Rev2.0 1.4.4 drivers |
 | 23-11-2026 | Added ZED_SDK 5.6      |
 | 23-11-2026 | Added 1.4.4 drivers    |
 | 25-09-2026 | Added ZED_SDK 5.5      |
